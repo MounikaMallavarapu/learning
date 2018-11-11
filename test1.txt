@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 68E7-6C0E
+
+ Directory of C:\Users\MounikaMallavarapu\Desktop\Myproject
+
+11-11-2018  19:47    <DIR>          .
+11-11-2018  19:47    <DIR>          ..
+11-11-2018  19:47                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  95,666,765,824 bytes free
